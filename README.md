@@ -1,7 +1,11 @@
 # Flutter Draw Multipolygon data into Maps
 
 A new Flutter project to draw multipolygon data into google maps. You must Parse MULTIPOLYGON into Polygon String.
-Update Dart SDK into 3.13.0
+
+## WARNING
+
+- Update your Dart SDK to v3.13.0 using FVM
+- Dont Forget to place API_KEY into AndroidManifest.xml
 
 ## Getting Started
 
